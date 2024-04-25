@@ -1,2 +1,2 @@
 # Spaces
-It is a furniture arrangement app
+A furniture arrangement app
